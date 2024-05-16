@@ -1,3 +1,6 @@
+Original Code is from https://github.com/SomewhatSane/VPNGuard I have decided to maintain this plugin since the original creator abandoned it
+
+
 # VPNGuard
 A VPN blocking plugin for SCP: SL servers running NWAPI (based on VPNShield-EXILED-Edition).
 
