@@ -1,0 +1,6 @@
+﻿# This file is an example of userids.csv that VPNGuard will use for IP Address checks.
+# It follows CSV format in the order:
+# <IP Address (string)>,<Should kick? (bool)>,<GetIpIntel Score (float)>,<GetIpIntel Is Mobile?>
+# Any lines that are blank or are prefixed with # are ignored.
+
+1.1.1.1,true,1,0

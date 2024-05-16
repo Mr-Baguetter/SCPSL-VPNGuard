@@ -1,0 +1,6 @@
+﻿# This file is an example of userids.csv that VPNGuard will use for User ID checks.
+# It follows CSV format in the order:
+# <User ID (string)>,<Account creation time (uint)>,<Passed Account Age Check (bool)>,<Passed Account Playtime Check (bool)>,<Whitelisted (bool)>
+# Any lines that are blank or are prefixed with # are ignored.
+
+76561198123456789@steam,0,false,false,true
