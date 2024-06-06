@@ -1,0 +1,11 @@
+{
+  "displayname": "<VPNGuard>",
+  "description": "<Made by SomewhatSane maintained by Mr. Baguetter. A VPN blocking plugin for SCP: SL servers running the Northwood Plugin API.>",
+  "authorName": "<SomewhatSane>",
+  "buildType": 0,
+  "version": "<1.1>",
+  "scpslVersion": "<13.4.2>",
+  "loaderType": "<nwapi>",
+  "gameAssemblyReferences": "<>",
+  "publicizeAssemblies": "<>"
+}
