@@ -1,4 +1,4 @@
-Original Code is from https://github.com/SomewhatSane/VPNShield-EXILED-Edition I have decided to maintain this plugin since the original creator abandoned it
+Original Code is from https://github.com/SomewhatSane/VPNGuard I have decided to maintain this plugin since the original creator abandoned it
 
 
 # VPNGuard
