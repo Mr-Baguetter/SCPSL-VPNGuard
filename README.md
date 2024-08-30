@@ -1,3 +1,5 @@
+<img alt="GitHub Downloads (specific asset, latest release)" src="https://img.shields.io/github/downloads/VPNShield/VPNShield/latest/VPNShieldExiled.dll">
+
 Original Code is from https://github.com/SomewhatSane/VPNGuard I have decided to maintain this plugin since the original creator abandoned it
 
 
