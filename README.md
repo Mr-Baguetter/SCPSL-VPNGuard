@@ -1,7 +1,7 @@
 <img alt="GitHub Downloads (specific asset, latest release)" src="https://img.shields.io/github/downloads/Mr-Baguetter/SCPSL-VPNGuard/latest/VPNGuardNWAPI.dll?style=for-the-badge&label=Downloads">
 
 Original Code is from https://github.com/SomewhatSane/VPNGuard I have decided to maintain this plugin since the original creator abandoned it
-
+[Exiled version](https://github.com/Mr-Baguetter/SCPSL-VPNGuard/tree/Exiled)
 
 # VPNGuard
 A VPN blocking plugin for SCP: SL servers running NWAPI
