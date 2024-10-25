@@ -4,7 +4,7 @@ Original Code is from https://github.com/SomewhatSane/VPNGuard I have decided to
 
 
 # VPNGuard
-A VPN blocking plugin for SCP: SL servers running Exiled (8.11.0)
+A VPN blocking plugin for SCP: SL servers running Exiled >= 8.11.0
 
 <h1>Installation</h1>
 
